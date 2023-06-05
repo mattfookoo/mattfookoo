@@ -1,6 +1,8 @@
-### Hi there 👋
+## 👋 Well met, I'm Matt! Good to meet you!
 
-## My Tech Stack
+I'm a fullstack developer working on **[AthenaJS](https://github.com/oslabs-beta/AthenaJS)**, an open-source developer tool that allows for the streamlined development of React components in isolation. I aspire to learn as much as I can with every passing day and to eventually master the ins and outs of TypeScript and JavaScript. I'm eager to delve into the quirks of each language, learn advanced concepts, explore various design patterns, and adopt industry best practices to enhance my skills and create exceptional applications!
+
+## 🛠️ My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,6 +24,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 <!--
 **mattfookoo/mattfookoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
