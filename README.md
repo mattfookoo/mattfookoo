@@ -36,7 +36,7 @@ When I'm not coding I love to:
 
 - **Build Mechanical Keyboards**: If it's ergo, I'm in! Currently driving a Bear65 v1. Addicted to Orange Alps and Topre.
 
-- **Write Fantasy Adventures**: I love thinking of fantasy scenarios as well as experience them with friends. You can find me playing Dungeons and Dragons or Pathfinder from time to time!
+- **Write Fantasy Adventures**: I love thinking of fantasy scenarios as well as writing scenarios for friends to enjoy. You can find me playing Dungeons and Dragons or Pathfinder from time to time!
 
 - **Play Monster Hunter**: I am an avid fan of the Monster Hunter franchise. Nothing helps me unwind more than a few quick hunts with some friends!
 
